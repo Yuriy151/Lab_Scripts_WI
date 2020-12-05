@@ -1,0 +1,6 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M labbench3p
+git remote add origin https://github.com/Yuriy151/Lab_Scripts_WI.git
+git push -u origin labbench3p
